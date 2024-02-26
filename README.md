@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Abdullah Alshehri
 - 👀 I’m interested in Machine learning and Quantum Computing
-- 🌱 I’m Fresh Computer Science Graduate
 - 🤖 I’m looking to collaborate on development projects
 - 📫 How to reach me -> linkedin: https://www.linkedin.com/in/abdullahalialshehri
